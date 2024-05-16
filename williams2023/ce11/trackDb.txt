@@ -27,7 +27,7 @@ longLabel RNA-seq on Cell sorted embryos
     track embryo_whole_worm
     parent EmbryoRNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/embryo_whole_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5Fembryo%5Fwhole%5Fmerged%2Ebw
     shortLabel embryo whole worm RNA-seq
     longLabel  embryo whole worm RNA-seq
     maxHeightPixels 50:50:11 
@@ -36,7 +36,7 @@ longLabel RNA-seq on Cell sorted embryos
     track embryo_dissociated_cells
     parent EmbryoRNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/embryo_dissociated_cells_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5Fembryo%5Fdissociated%5Fcells%5Fmerged%2Ebw
     shortLabel embryo cells RNA-seq
     longLabel  embryo dissociated unsorted cells RNA-seq
     maxHeightPixels 50:50:11 
@@ -46,7 +46,7 @@ longLabel RNA-seq on Cell sorted embryos
     track embryo_intestine_cells
     parent EmbryoRNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/embryo_intestine_cells_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5Fembryo%5Fintestine%5Fcells%5Fmerged%2Ebw
     shortLabel embryo intestine RNA-seq
     longLabel  embryo intestine GFP+ sorted cells RNA-seq
     maxHeightPixels 50:50:11 
@@ -56,7 +56,7 @@ longLabel RNA-seq on Cell sorted embryos
     track embryo_non-intestine_cells
     parent EmbryoRNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/embryo_non-intestine_cells_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5Fembryo%5Fnon%2Dintestine%5Fcells%5Fmerged%2Ebw
     shortLabel embryo non-intestine RNA-seq
     longLabel  embryo non-intestine GFP- sorted cells RNA-seq
     maxHeightPixels 50:50:11 
