@@ -116,7 +116,7 @@ longLabel RNA-seq on Cell Sorted Larval Stage 3 Intestines
     track L3_whole_worm
     parent L3RNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/L3_whole_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5FL3%5Fwhole%5Fmerged%2Ebw/L3_whole_merged.bw
     shortLabel L3 whole RNA-seq
     longLabel  L3 whole worms RNA-seq
     maxHeightPixels 50:50:11 
@@ -125,7 +125,7 @@ longLabel RNA-seq on Cell Sorted Larval Stage 3 Intestines
     track L3_dissociated_cells
     parent L3RNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/L3_dissociated_cells_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5FL3%5Fdissociated%5Fcells%5Fmerged%2Ebw
     shortLabel L3  cells RNA-seq
     longLabel  L3 dissociated unsorted cells RNA-seq
     maxHeightPixels 50:50:11 
@@ -135,7 +135,7 @@ longLabel RNA-seq on Cell Sorted Larval Stage 3 Intestines
     track L3_intestine_cells
     parent L3RNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/L3_intestine_cells_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5FL3%5Fintestine%5Fcells%5Fmerged%2Ebw
     shortLabel L3 intestine RNA-seq
     longLabel  L3 intestine GFP+ sorted cells RNA-seq
     maxHeightPixels 50:50:11 
@@ -145,7 +145,7 @@ longLabel RNA-seq on Cell Sorted Larval Stage 3 Intestines
     track L3_non-intestine_cells
     parent L3RNASeq
     html RNASeq/williams_methods_RNASeq.html
-    bigDataUrl RNASeq/L3_non-intestine_cells_merged.bw
+    bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE214581&format=file&file=GSE214581%5FL3%5Fnon%2Dintestine%5Fcells%5Fmerged%2Ebw
     shortLabel L3 non-intestine RNA-seq
     longLabel  L3 non-intestine GFP- sorted cells RNA-seq
     maxHeightPixels 50:50:11 
